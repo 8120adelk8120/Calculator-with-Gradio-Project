@@ -9,5 +9,4 @@ python_version: '3.13'
 app_file: app.py
 pinned: false
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+لینک پروژه : https://huggingface.co/spaces/adel-k8120/Gradio/tree/main
